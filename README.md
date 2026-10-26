@@ -1,100 +1,107 @@
 # Ayyappan Thirukkannan
 
-**Senior Software Engineer | C# / .NET | ASP.NET Core | React | Angular | TypeScript | SQL Server | Python | Generative AI | Software Architecture**
+### Senior Software Engineer | C# / .NET | ASP.NET Core | Angular | React | SQL Server
 
-📍 New Jersey, United States · **25+ years of software engineering experience**
+**25+ years in software engineering** · **Former Vice President, Merrill Lynch (Bank of America Group)** · **New Jersey, USA**
 
-[LinkedIn](https://www.linkedin.com/in/ayyappan10001/) · [GitHub](https://github.com/tayyadev) · [KTNSINNOVATIONS](https://ktnsinnovations.com/)
+**Open to opportunities:** Senior .NET Developer · Senior Software Engineer · .NET Full-Stack Developer · C# / ASP.NET Core Backend Engineer
 
-## About Me
+**Work options:** US remote or New Jersey-area hybrid/on-site · Full-time or contract
 
-I am a Senior Software Engineer with **25+ years of experience** in enterprise software development, financial technology, full-stack engineering, and software architecture, including **16+ years with Bank of America Group**.
+[**Connect on LinkedIn**](https://www.linkedin.com/in/ayyappan10001/) · [**View public code**](https://github.com/tayyadev?tab=repositories) · [**KTNSINNOVATIONS**](https://ktnsinnovations.com/)
 
-I work across the full software development lifecycle: requirements analysis, architecture, development, testing, deployment, performance optimization, and production support. My focus is on secure, scalable, reliable, and maintainable systems.
+---
 
-At **KTNSINNOVATIONS LLC**, I develop enterprise applications, SaaS products, financial technology and trading integrations, AI-powered applications, and API-based automation.
+## What I bring to an engineering team
 
-## Technical Expertise
+I'm a hands-on **C# / .NET software engineer** with over 25 years of experience designing, building, modernizing, and supporting enterprise applications. My background includes **16+ years with Bank of America Group**, including nearly 13 years as a **Vice President at Merrill Lynch**, working on financial-services technology.
 
-| Area | Technologies and capabilities |
+I bring together backend depth, full-stack delivery, SQL/database performance, API integration, and practical experience supporting software throughout its lifecycle.
+
+- **Enterprise backend engineering:** C#, .NET, ASP.NET Core, ASP.NET Web API, Entity Framework, REST APIs, WCF, and service integration.
+- **Full-stack development:** Angular, React, TypeScript, JavaScript, and backend-connected user interfaces.
+- **Data-intensive applications:** SQL Server, PostgreSQL, relational database design, query optimization, and troubleshooting.
+- **System design and integration:** Microservices, WebSockets, webhooks, event-driven workflows, and application modernization.
+- **Production ownership:** Requirements, architecture, implementation, testing, deployment, performance optimization, debugging, and ongoing support.
+- **Additional strengths:** Python, AI/LLM integrations, automation, fintech and brokerage integrations, and serverless applications.
+
+## Core technical skills
+
+| Focus | Technologies |
 | --- | --- |
-| **Backend** | C#, .NET, ASP.NET Core, ASP.NET Web API, REST APIs, Entity Framework, microservices, WCF |
-| **Frontend** | React, Angular, TypeScript, JavaScript, responsive web applications |
-| **Databases** | Microsoft SQL Server, PostgreSQL, database design, query tuning, performance optimization |
-| **Integration & architecture** | WebSockets, webhooks, event-driven systems, API integration, enterprise architecture, application modernization |
-| **AI & machine learning** | Python, Generative AI, LLMs, AI agents, Model Context Protocol (MCP), OpenAI, OpenRouter, DeepSeek, Grok, PyTorch, LSTM, LightGBM |
-| **Cloud, deployment & operations** | Cloudflare Workers, Cloudflare D1, serverless applications, Ubuntu Linux, VPS hosting |
-| **Engineering practices** | Git, Bitbucket, debugging, troubleshooting, testing, deployments, production support |
+| **Primary backend** | **C# · .NET · ASP.NET Core · Web API · Entity Framework · REST** |
+| **Primary frontend** | **Angular · React · TypeScript · JavaScript** |
+| **Databases** | **Microsoft SQL Server · PostgreSQL · SQL optimization · Data modeling** |
+| **Architecture** | Microservices · Enterprise applications · APIs · WebSockets · Event-driven integration |
+| **Engineering delivery** | Git · Bitbucket · Testing · Debugging · Deployment · Production support |
+| **Additional capabilities** | Python · OpenAI/LLMs · AI agents/MCP · Cloudflare Workers/D1 · Linux/VPS |
 
-## Selected Applications and Integrations
-
-### AI Receptionist and Business Automation
-Developed an AI-powered receptionist platform for voice interactions, lead qualification, appointment scheduling, CRM automation, and communication workflows.
-
-- [AI platform](https://ai.ktnsinnovations.com/)
-- [KTNS applications](https://app.ktnsinnovations.com/)
-
-### TradingView-to-Discord SaaS
-Built a SaaS platform featuring TradingView webhook processing, authentication, Stripe subscriptions, licensing, and delivery logs.
-
-- [TradingView-to-Discord platform](https://tv2discord.tradeautomationhub.com/)
-
-### Trading and Brokerage Integrations
-Integrated TradingView with NinjaTrader and Interactive Brokers (IBKR) for automated signal processing, order routing, and execution.
-
-### AI, Machine Learning, and Communications
-Developed AI applications and automations with LLMs, agents, MCP, and workflow integrations; worked with predictive analytics using Python, PyTorch, LSTM neural networks, and LightGBM. Integrated Telnyx SMS and voice calling APIs with automated communications.
-
-## Public Engineering Portfolio
-
-The following repositories are **public engineering samples**. Commercial systems and client-specific implementations are not represented here as open-source code.
-
-- **[KTNS GroundReply](https://github.com/tayyadev/ktns-groundreply)** — Human-reviewed, source-grounded AI support draft workflow built with FastAPI, React, TypeScript, PostgreSQL/pgvector, and background workers; described in its repository as a production-oriented pilot.
-- **[KTNS SQL Benchmark Studio](https://github.com/tayyadev/sql-query-benchmark-studio)** — Offline SQL Server execution-plan inspection and read-only SQLite query benchmarking with synthetic data.
-- **[Northstar Desk — jQuery + REST Dashboard](https://github.com/tayyadev/jquery-rest-dashboard)** — Responsive customer/order dashboard demonstrating jQuery, REST integration, validation, and automated tests.
-- **[Engineering Portfolio](https://github.com/tayyadev/engineering-portfolio)** — Independently written Python CSV quality-audit tool with data validation and tests.
-
-## Professional Experience
+## Professional experience
 
 ### Senior Software Engineer — KTNSINNOVATIONS LLC
-**March 2024 – Present | Full-time**
+**Mar 2024 – Present**
 
-- Develop enterprise and full-stack software with C#, .NET, ASP.NET Core, React, Angular, TypeScript, JavaScript, and SQL Server.
-- Build REST APIs, microservices, reusable services, WebSocket integrations, and event-driven workflows.
-- Design and optimize SQL Server and PostgreSQL databases.
-- Build SaaS applications with authentication, licensing, subscriptions, dashboards, and monitoring.
-- Develop AI-powered applications, voice and messaging integrations, predictive models, and financial trading systems.
-- Deploy serverless APIs with Cloudflare Workers/D1 and Python services on Ubuntu Linux VPS environments.
+- Develop full-stack applications and backend services with **C#, .NET, ASP.NET Core, Angular, React, TypeScript, and SQL Server**.
+- Design REST APIs, reusable services, database schemas, real-time messaging, and webhook-based integrations.
+- Build SaaS functionality involving authentication, subscriptions, licensing, dashboards, and monitoring.
+- Develop AI-powered business software, communications workflows, and financial technology integrations.
+- Work across requirements, architecture, implementation, testing, deployment, and production support.
 
 ### Vice President — Merrill Lynch (Bank of America Group)
-**June 2011 – February 2024 | Full-time**
+**Jun 2011 – Feb 2024**
 
-- Designed, developed, enhanced, and supported enterprise financial-services applications using C#, .NET, ASP.NET Core, and Microsoft SQL Server.
-- Worked with Angular, React, TypeScript, JavaScript, REST APIs, ASP.NET Web APIs, and WCF services.
-- Built real-time capabilities with WebSockets and contributed to microservices, application modernization, and system integration.
-- Contributed across software architecture, development, deployment, optimization, troubleshooting, and production support.
+- Designed, developed, enhanced, and supported **enterprise financial-services applications** using C#, .NET, ASP.NET Core, and SQL Server.
+- Developed and integrated REST/Web APIs, WCF services, and real-time WebSocket-based functionality.
+- Worked across Angular, React, TypeScript, JavaScript, backend systems, and relational databases.
+- Contributed to system integration, microservices, application modernization, performance optimization, troubleshooting, and production support.
+- Collaborated with cross-functional teams throughout design, implementation, testing, and delivery.
 
-### Analyst — BA Continuum India (Bank of America Group)
-**January 2008 – May 2011 | Full-time**
+### Earlier experience
 
-### Senior Software Engineer — Shasun Research Center
-**March 2005 – January 2008 | Full-time**
+| Role | Organization | Period |
+| --- | --- | --- |
+| Analyst | BA Continuum India (Bank of America Group) | Jan 2008 – May 2011 |
+| Senior Software Engineer | Shasun Research Center | Mar 2005 – Jan 2008 |
+| Programmer | Davin Technologies Pvt. Ltd. | May 2001 – Mar 2005 |
 
-### Programmer — Davin Technologies Pvt. Ltd.
-**May 2001 – March 2005 | Full-time**
+## Selected engineering work
+
+These examples describe professional and product-development experience. **Commercial and client code is not presented as open source.**
+
+**Enterprise financial-services platforms**
+- Long-term development and production support of enterprise applications involving .NET, SQL Server, APIs, application integration, and real-time functionality.
+
+**SaaS and business systems**
+- Applications with REST APIs, authentication, subscriptions, licensing, monitoring, and dashboards.
+- [KTNS application platform](https://app.ktnsinnovations.com/) · [AI business platform](https://ai.ktnsinnovations.com/)
+
+**Financial technology integrations**
+- Automated signal processing and brokerage integration involving TradingView, NinjaTrader, and Interactive Brokers.
+- [TradingView-to-Discord SaaS](https://tv2discord.tradeautomationhub.com/) — Webhook processing, subscriptions, licensing, and delivery logs.
+
+## Public code and technical samples
+
+These are **independent public samples**, not copies of proprietary Merrill Lynch or client systems.
+
+| Repository | Demonstrates |
+| --- | --- |
+| [KTNS SQL Benchmark Studio](https://github.com/tayyadev/sql-query-benchmark-studio) | SQL Server ShowPlan inspection; offline, read-only SQLite benchmarking and performance analysis |
+| [Northstar Desk — REST Dashboard](https://github.com/tayyadev/jquery-rest-dashboard) | JavaScript/jQuery UI, REST APIs, validation, test automation, and CRUD workflows |
+| [KTNS GroundReply](https://github.com/tayyadev/ktns-groundreply) | React/TypeScript frontend, Python FastAPI backend, PostgreSQL/pgvector, human-reviewed AI workflow; pilot implementation |
+| [Engineering Portfolio](https://github.com/tayyadev/engineering-portfolio) | Python data validation, clear error handling, repeatable CLI behavior, and automated tests |
+
+*The public code portfolio does not currently include a representative .NET/Angular sample. My .NET/Angular experience is described in the professional work history above.*
 
 ## Education
 
 **Madurai Kamaraj University**
-- Master of Computer Applications (MCA) — Computer Applications
-- Bachelor of Science (B.Sc.) — Computer Science
+- **Master of Computer Applications (MCA)** — Computer Applications
+- **Bachelor of Science (B.Sc.)** — Computer Science
 
-## Connect
+## Hiring and professional contact
 
-- **LinkedIn:** [linkedin.com/in/ayyappan10001](https://www.linkedin.com/in/ayyappan10001/)
-- **GitHub:** [github.com/tayyadev](https://github.com/tayyadev)
-- **Company:** [KTNSINNOVATIONS LLC](https://ktnsinnovations.com/)
+I'm interested in opportunities where I can contribute as a **senior C#/.NET engineer**, particularly building **ASP.NET Core APIs, SQL Server-backed enterprise systems, and Angular or React applications**.
 
----
+**Recruiters and hiring managers:** Please contact me through [LinkedIn](https://www.linkedin.com/in/ayyappan10001/) to discuss engineering roles, technical interviews, or project requirements.
 
-*Career details adapted from my LinkedIn profile. Public sample repositories are distinguished from commercial applications and private client work.*
+[GitHub](https://github.com/tayyadev) · [LinkedIn](https://www.linkedin.com/in/ayyappan10001/) · [Company website](https://ktnsinnovations.com/)
